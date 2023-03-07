@@ -1,0 +1,12 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/FORCE' specification
+Source.obj : warning LNK4006: "public: __cdecl hangman::hangman(void)" (??0hangman@@QEAA@XZ) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: void __cdecl hangman::category(void)" (?category@hangman@@QEAAXXZ) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: bool __cdecl hangman::checkchar(char)" (?checkchar@hangman@@QEAA_ND@Z) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: bool __cdecl hangman::checkwin(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?checkwin@hangman@@QEAA_NV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: void __cdecl hangman::file_Score(void)" (?file_Score@hangman@@QEAAXXZ) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: void __cdecl hangman::game_continue(void)" (?game_continue@hangman@@QEAAXXZ) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "public: void __cdecl hangman::random_word(void)" (?random_word@hangman@@QEAAXXZ) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "class player n" (?n@@3Vplayer@@A) already defined in hangman.obj; second definition ignored
+Source.obj : warning LNK4006: "class std::basic_fstream<char,struct std::char_traits<char> > Scores" (?Scores@@3V?$basic_fstream@DU?$char_traits@D@std@@@std@@A) already defined in hangman.obj; second definition ignored
+E:\Faculty\2nd year\2nd year 1st Sem\Data structure\Hangman-master\Hangman-master\Hangman\x64\Debug\Hangman.exe : warning LNK4088: image being generated due to /FORCE option; image may not run
+  Hangman.vcxproj -> E:\Faculty\2nd year\2nd year 1st Sem\Data structure\Hangman-master\Hangman-master\Hangman\x64\Debug\Hangman.exe

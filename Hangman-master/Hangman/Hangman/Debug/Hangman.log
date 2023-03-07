@@ -1,0 +1,4 @@
+﻿  hangman.cpp
+c:\users\nourk\desktop\hangman\hangman\hangman.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\nourk\desktop\hangman\hangman\hangman.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  Hangman.vcxproj -> C:\Users\nourk\Desktop\Hangman\Debug\Hangman.exe
